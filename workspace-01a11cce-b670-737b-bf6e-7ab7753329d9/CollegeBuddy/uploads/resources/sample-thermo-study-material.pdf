@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 745 >>
+stream
+BT /F2 20 Tf 50 790 Td (Thermodynamics - Study Material Unit 1 to 3) Tj ET
+BT /F1 11 Tf 50 768 Td (College Buddy - free study resource sample file) Tj ET
+BT /F2 13 Tf 50 730 Td (Unit 1: Basic Concepts) Tj ET
+BT /F1 11 Tf 60 708 Td (System, surroundings, properties, state, process and cycle.) Tj ET
+BT /F1 11 Tf 60 691 Td (Zeroth law and temperature scales \(Celsius, Fahrenheit, Kelvin\).) Tj ET
+BT /F2 13 Tf 50 674 Td (Unit 2: First Law of Thermodynamics) Tj ET
+BT /F1 11 Tf 60 652 Td (Work and heat interactions, closed and open systems, steady flow energy equation.) Tj ET
+BT /F2 13 Tf 50 635 Td (Unit 3: Second Law of Thermodynamics) Tj ET
+BT /F1 11 Tf 60 613 Td (Kelvin-Planck and Clausius statements, Carnot cycle, entropy and COP.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001047 00000 n 
+0000001117 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1192
+%%EOF

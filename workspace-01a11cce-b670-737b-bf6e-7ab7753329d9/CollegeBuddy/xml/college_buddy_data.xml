@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  College Buddy - static reference data (XML).
+
+  This file holds ONLY fixed lists that rarely change: branches, years, semesters,
+  subjects, resource types, categories, item conditions, report reasons and the grade scale.
+  Dynamic data (users, listings, resources, requests, messages, reports) is stored in MySQL.
+
+  The PHP function xml_data() in includes/functions.php reads this file with SimpleXML
+  and fills the dropdown menus used across the website.
+-->
+<collegeBuddy>
+
+    <branches>
+        <branch value="CSE" label="Computer Science &amp; Engineering"/>
+        <branch value="AIML" label="AI &amp; Machine Learning"/>
+        <branch value="ECE" label="Electronics &amp; Communication"/>
+        <branch value="Mechanical" label="Mechanical Engineering"/>
+        <branch value="Civil" label="Civil Engineering"/>
+        <branch value="Other" label="Other"/>
+    </branches>
+
+    <years>
+        <year value="1" label="First Year"/>
+        <year value="2" label="Second Year"/>
+        <year value="3" label="Third Year"/>
+        <year value="4" label="Final Year"/>
+    </years>
+
+    <semesters>
+        <semester value="1" label="Semester 1"/>
+        <semester value="2" label="Semester 2"/>
+        <semester value="3" label="Semester 3"/>
+        <semester value="4" label="Semester 4"/>
+        <semester value="5" label="Semester 5"/>
+        <semester value="6" label="Semester 6"/>
+        <semester value="7" label="Semester 7"/>
+        <semester value="8" label="Semester 8"/>
+    </semesters>
+
+    <!-- Suggested subjects. The upload form shows the subjects that match the chosen branch and semester. -->
+    <subjects>
+        <subject branch="CSE" semester="1">Engineering Mathematics I</subject>
+        <subject branch="CSE" semester="1">Programming in C</subject>
+        <subject branch="CSE" semester="2">Digital Logic Design</subject>
+        <subject branch="CSE" semester="3">Data Structures</subject>
+        <subject branch="CSE" semester="3">Object Oriented Programming</subject>
+        <subject branch="CSE" semester="4">Database Management Systems</subject>
+        <subject branch="CSE" semester="4">Operating Systems</subject>
+        <subject branch="CSE" semester="4">Web Technology</subject>
+        <subject branch="CSE" semester="5">Computer Networks</subject>
+        <subject branch="CSE" semester="5">Design and Analysis of Algorithms</subject>
+        <subject branch="CSE" semester="6">Software Engineering</subject>
+        <subject branch="AIML" semester="1">Engineering Mathematics I</subject>
+        <subject branch="AIML" semester="3">Python for Data Science</subject>
+        <subject branch="AIML" semester="3">Data Structures</subject>
+        <subject branch="AIML" semester="5">Machine Learning</subject>
+        <subject branch="AIML" semester="5">Artificial Neural Networks</subject>
+        <subject branch="AIML" semester="6">Computer Vision</subject>
+        <subject branch="ECE" semester="1">Engineering Mathematics I</subject>
+        <subject branch="ECE" semester="2">Basic Electronics</subject>
+        <subject branch="ECE" semester="3">Digital Electronics</subject>
+        <subject branch="ECE" semester="3">Signals and Systems</subject>
+        <subject branch="ECE" semester="4">Microprocessors</subject>
+        <subject branch="ECE" semester="5">Communication Systems</subject>
+        <subject branch="ECE" semester="6">Embedded Systems</subject>
+        <subject branch="Mechanical" semester="1">Engineering Drawing</subject>
+        <subject branch="Mechanical" semester="2">Engineering Mechanics</subject>
+        <subject branch="Mechanical" semester="3">Thermodynamics</subject>
+        <subject branch="Mechanical" semester="4">Fluid Mechanics</subject>
+        <subject branch="Mechanical" semester="5">Machine Design</subject>
+        <subject branch="Mechanical" semester="6">Heat Transfer</subject>
+        <subject branch="Civil" semester="1">Engineering Mathematics I</subject>
+        <subject branch="Civil" semester="3">Surveying</subject>
+        <subject branch="Civil" semester="3">Building Materials</subject>
+        <subject branch="Civil" semester="4">Structural Analysis</subject>
+        <subject branch="Civil" semester="5">Geotechnical Engineering</subject>
+        <subject branch="Civil" semester="6">Concrete Technology</subject>
+        <subject branch="Other" semester="1">Engineering Physics</subject>
+        <subject branch="Other" semester="2">Engineering Chemistry</subject>
+        <subject branch="Other" semester="2">Technical English</subject>
+    </subjects>
+
+    <resourceTypes>
+        <type>Notes</type>
+        <type>Previous Year Paper</type>
+        <type>Question Bank</type>
+        <type>Practical</type>
+        <type>Assignment</type>
+        <type>Study Material</type>
+        <type>Other</type>
+    </resourceTypes>
+
+    <listingCategories>
+        <category>Textbooks</category>
+        <category>Notes &amp; Books</category>
+        <category>Drawing Instruments</category>
+        <category>Calculators</category>
+        <category>Lab Equipment</category>
+        <category>Practical Files</category>
+        <category>Electronics Kits</category>
+        <category>Bags</category>
+        <category>College Accessories</category>
+        <category>Other Academic Items</category>
+    </listingCategories>
+
+    <requestCategories>
+        <category>Textbooks &amp; Books</category>
+        <category>Notes &amp; Study Material</category>
+        <category>Previous Year Papers</category>
+        <category>Equipment &amp; Instruments</category>
+        <category>Practical Help</category>
+        <category>Other</category>
+    </requestCategories>
+
+    <conditions>
+        <condition>New</condition>
+        <condition>Like New</condition>
+        <condition>Good</condition>
+        <condition>Used</condition>
+    </conditions>
+
+    <reportReasons>
+        <reason>Spam</reason>
+        <reason>Wrong Information</reason>
+        <reason>Inappropriate Content</reason>
+        <reason>Fraud/Suspicious</reason>
+        <reason>Other</reason>
+    </reportReasons>
+
+    <!-- Typical 10-point grade scale, shown as a reference table on the CGPA page. Check your university's rules. -->
+    <gradeScale>
+        <grade symbol="O" points="10"/>
+        <grade symbol="A+" points="9"/>
+        <grade symbol="A" points="8"/>
+        <grade symbol="B+" points="7"/>
+        <grade symbol="B" points="6"/>
+        <grade symbol="C" points="5"/>
+        <grade symbol="P" points="4"/>
+        <grade symbol="F" points="0"/>
+    </gradeScale>
+
+</collegeBuddy>

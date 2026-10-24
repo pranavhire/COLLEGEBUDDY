@@ -1,0 +1,2 @@
+# Nobody can open PHP include files or database settings from the browser
+Require all denied

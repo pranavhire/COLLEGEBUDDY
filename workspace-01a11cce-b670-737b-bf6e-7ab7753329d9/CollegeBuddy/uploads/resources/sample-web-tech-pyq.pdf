@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 954 >>
+stream
+BT /F2 20 Tf 50 790 Td (Web Technology - Previous Year Paper 2024) Tj ET
+BT /F1 11 Tf 50 768 Td (College Buddy - free study resource sample file) Tj ET
+BT /F2 13 Tf 50 730 Td (Part A \(2 marks each\)) Tj ET
+BT /F1 11 Tf 60 708 Td (1. What is the difference between GET and POST methods?) Tj ET
+BT /F1 11 Tf 60 691 Td (2. What are sessions in PHP? How are they started?) Tj ET
+BT /F1 11 Tf 60 674 Td (3. Define the Bootstrap grid system.) Tj ET
+BT /F2 13 Tf 50 657 Td (Part B \(5 marks each\)) Tj ET
+BT /F1 11 Tf 60 635 Td (4. Explain the structure of an HTML5 document with a sample page.) Tj ET
+BT /F1 11 Tf 60 618 Td (5. Write a PHP script to connect to MySQL using mysqli and display records.) Tj ET
+BT /F2 13 Tf 50 601 Td (Part C \(10 marks each\)) Tj ET
+BT /F1 11 Tf 60 579 Td (6. Explain CSS box model and responsive design with media queries.) Tj ET
+BT /F1 11 Tf 60 562 Td (7. Design a login system using PHP sessions and password_hash\(\).) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001256 00000 n 
+0000001326 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1401
+%%EOF

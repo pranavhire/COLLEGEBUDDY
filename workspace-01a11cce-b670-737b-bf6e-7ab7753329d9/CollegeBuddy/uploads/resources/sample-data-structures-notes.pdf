@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1069 >>
+stream
+BT /F2 20 Tf 50 790 Td (Data Structures Notes - Units 1 to 3) Tj ET
+BT /F1 11 Tf 50 768 Td (College Buddy - free study resource sample file) Tj ET
+BT /F2 13 Tf 50 730 Td (Unit 1: Introduction and Arrays) Tj ET
+BT /F1 11 Tf 60 708 Td (Time complexity: Big-O, Big-Omega and Big-Theta notations.) Tj ET
+BT /F1 11 Tf 60 691 Td (Array operations: insertion, deletion and traversal with examples.) Tj ET
+BT /F2 13 Tf 50 674 Td (Unit 2: Stacks and Queues) Tj ET
+BT /F1 11 Tf 60 652 Td (Stack using arrays and linked lists; push, pop and peek operations.) Tj ET
+BT /F1 11 Tf 60 635 Td (Circular queue, deque and priority queue with applications.) Tj ET
+BT /F1 11 Tf 60 618 Td (Infix to postfix conversion using a stack \(worked example\).) Tj ET
+BT /F2 13 Tf 50 601 Td (Unit 3: Linked Lists) Tj ET
+BT /F1 11 Tf 60 579 Td (Singly, doubly and circular linked lists with diagrams.) Tj ET
+BT /F1 11 Tf 60 562 Td (Reversing a linked list \(iterative and recursive methods\).) Tj ET
+BT /F1 11 Tf 60 545 Td (Important viva questions: why linked lists need no contiguous memory?) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001372 00000 n 
+0000001442 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1517
+%%EOF

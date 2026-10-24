@@ -1,0 +1,10 @@
+# College Buddy - Apache settings (XAMPP)
+DirectoryIndex index.php
+Options -Indexes
+
+# Allow uploads up to 10 MB. XAMPP runs PHP as an Apache module named php_module,
+# so the block is skipped on any other setup (then edit php.ini instead, see README).
+<IfModule php_module>
+    php_value upload_max_filesize 10M
+    php_value post_max_size 12M
+</IfModule>

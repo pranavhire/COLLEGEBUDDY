@@ -1,0 +1,42 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 670 >>
+stream
+BT /F2 20 Tf 50 790 Td (Operating Systems - Assignment Set 1) Tj ET
+BT /F1 11 Tf 50 768 Td (College Buddy - free study resource sample file) Tj ET
+BT /F1 11 Tf 60 730 Td (Q1. Explain the difference between process and thread with examples.) Tj ET
+BT /F1 11 Tf 60 713 Td (Q2. Solve FCFS, SJF \(preemptive\) and Round Robin scheduling problems.) Tj ET
+BT /F1 11 Tf 60 696 Td (Q3. Explain the four necessary conditions for deadlock \(Coffman conditions\).) Tj ET
+BT /F1 11 Tf 60 679 Td (Q4. Apply the Banker's algorithm on the given resource allocation table.) Tj ET
+BT /F1 11 Tf 60 662 Td (Q5. Describe paging and segmentation with a diagram of address translation.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000972 00000 n 
+0000001042 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1117
+%%EOF

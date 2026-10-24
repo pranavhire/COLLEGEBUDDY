@@ -1,0 +1,45 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 790 >>
+stream
+BT /F2 20 Tf 50 790 Td (Engineering Mathematics I - Notes) Tj ET
+BT /F1 11 Tf 50 768 Td (College Buddy - free study resource sample file) Tj ET
+BT /F2 13 Tf 50 730 Td (Unit 1: Matrices) Tj ET
+BT /F1 11 Tf 60 708 Td (Rank of a matrix, row echelon form, consistency of linear equations.) Tj ET
+BT /F1 11 Tf 60 691 Td (Eigenvalues and eigenvectors with Cayley-Hamilton theorem.) Tj ET
+BT /F2 13 Tf 50 674 Td (Unit 2: Differential Calculus) Tj ET
+BT /F1 11 Tf 60 652 Td (Successive differentiation, Leibnitz theorem, Taylor and Maclaurin series.) Tj ET
+BT /F2 13 Tf 50 635 Td (Unit 3: Integral Calculus) Tj ET
+BT /F1 11 Tf 60 613 Td (Standard integrals, Beta and Gamma functions, double integrals.) Tj ET
+BT /F1 11 Tf 60 596 Td (Important formulas sheet included at the end of the notes.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001092 00000 n 
+0000001162 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1237
+%%EOF

@@ -1,0 +1,45 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 823 >>
+stream
+BT /F2 20 Tf 50 790 Td (Structural Analysis - Question Bank) Tj ET
+BT /F1 11 Tf 50 768 Td (College Buddy - free study resource sample file) Tj ET
+BT /F2 13 Tf 50 730 Td (Module 1: Analysis of Determinate Structures) Tj ET
+BT /F1 11 Tf 60 708 Td (Q1. Find support reactions of a simply supported beam with point loads.) Tj ET
+BT /F1 11 Tf 60 691 Td (Q2. Draw SFD and BMD for a cantilever with UDL.) Tj ET
+BT /F2 13 Tf 50 674 Td (Module 2: Deflection of Beams) Tj ET
+BT /F1 11 Tf 60 652 Td (Q3. Find slope and deflection at free end using the moment area method.) Tj ET
+BT /F1 11 Tf 60 635 Td (Q4. Solve a propped cantilever using the double integration method.) Tj ET
+BT /F2 13 Tf 50 618 Td (Module 3: Indeterminate Structures) Tj ET
+BT /F1 11 Tf 60 596 Td (Q5. Analyse a fixed beam using the slope deflection method.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001125 00000 n 
+0000001195 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1270
+%%EOF
